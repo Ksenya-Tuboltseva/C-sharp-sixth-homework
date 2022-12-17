@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\bin\Debug\net6.0\HowManyPlusNumbers.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\bin\Debug\net6.0\HowManyPlusNumbers.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\bin\Debug\net6.0\HowManyPlusNumbers.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\bin\Debug\net6.0\HowManyPlusNumbers.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\bin\Debug\net6.0\HowManyPlusNumbers.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\refint\HowManyPlusNumbers.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\HowManyPlusNumbers.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\HowManyPlusNumbers\obj\Debug\net6.0\ref\HowManyPlusNumbers.dll

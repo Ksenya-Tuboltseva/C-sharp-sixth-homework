@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\bin\Debug\net6.0\LineEquation.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\bin\Debug\net6.0\LineEquation.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\bin\Debug\net6.0\LineEquation.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\bin\Debug\net6.0\LineEquation.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\bin\Debug\net6.0\LineEquation.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\refint\LineEquation.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\LineEquation.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\sixth homework\LineEquation\obj\Debug\net6.0\ref\LineEquation.dll
